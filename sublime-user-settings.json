@@ -1,0 +1,31 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Schemes by carlcalderon/Stereokai/Stereokai.tmTheme",
+	"copy_with_empty_selection": false,
+	"font_size": 12,
+	"font_face":"Source Code Pro",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"margin": 0,
+	"phoenix_color_green": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_sidebar_tree_xxlarge": true,
+	"phoenix_solid_current_tab": false,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_tabs_small": true,
+	"phoenix_tabs_": true,
+	"phoenix_tabs_auto_width": true,
+	"scroll_past_end": false,
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
